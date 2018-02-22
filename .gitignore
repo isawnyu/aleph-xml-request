@@ -1,6 +1,6 @@
 # aleph-xml-request-download
-data/in/
-data/out/
+# data/in/
+# data/out/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
